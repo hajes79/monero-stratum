@@ -1,9 +1,9 @@
 {
-  "address": "4BHhypemdeAY6EZ2zwtMYdLnqeRAZiXrEh9YKUoeJg66XyWsrrxy2cgUy8nceG8EvifZd5ULUfL8gFHmmaXcxPHFECnAW7a",
+  "address": "871dPUpLmQL6Hn1fbthsNee4NRmAwEiXAR5WqhFGVwmqH8v9VLiFvVs5QL8J291S1sEKQaaUwB7d93pRLeokTV4ETUDfmBJ",
   "bypassAddressValidation": true,
   "bypassShareValidation": true,
 
-  "threads": 2,
+  "threads": 70,
 
   "estimationWindow": "15m",
   "luckWindow": "24h",
